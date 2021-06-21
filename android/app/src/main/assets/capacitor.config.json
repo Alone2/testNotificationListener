@@ -1,0 +1,14 @@
+{
+	"appId": "ch.asinz.testionic",
+	"appName": "test",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	},
+	"cordova": {},
+	"linuxAndroidStudioPath": "/usr/bin/android-studio"
+}
